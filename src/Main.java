@@ -10,7 +10,7 @@ public class Main {
 
         for(long x =1 ; x<experiment;x++){
             start= System.nanoTime();
-            int operation =  2 * 3;
+            //int operation =  2 * 3;
             end = System.nanoTime();
 
             sum = sum +(end- start);
